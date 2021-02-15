@@ -130,3 +130,5 @@ dmypy.json
 
 .vscode
 Data
+.virtual_documents
+.ipynb_checkpoints
