@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Repo/Jupyter/LearningTest/media/videos/LearningTest/1080p60/partial_movie_files/Test1/450974505_1790354647_3681920525.mp4'
+file 'file:D:/Repo/Jupyter/LearningTest/media/videos/LearningTest/1080p60/partial_movie_files/Test1/2788726626_2051348211_2700237642.mp4'
+file 'file:D:/Repo/Jupyter/LearningTest/media/videos/LearningTest/1080p60/partial_movie_files/Test1/2788726626_194265830_2678647214.mp4'
+file 'file:D:/Repo/Jupyter/LearningTest/media/videos/LearningTest/1080p60/partial_movie_files/Test1/2788726626_290317051_2162215858.mp4'
+file 'file:D:/Repo/Jupyter/LearningTest/media/videos/LearningTest/1080p60/partial_movie_files/Test1/2788726626_4180579860_3048305454.mp4'
